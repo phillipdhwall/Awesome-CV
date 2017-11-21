@@ -273,6 +273,10 @@
 % Usage: \name{<position>}
 \newcommand*{\position}[1]{\def\@position{#1}}
 
+% Define writer's ABR status
+% Usage: \abrstatus{<ABR status>}
+\newcommand*{\abrstatus}[1]{\def\@abrstatus{#1}}
+
 % Defines writer's mobile (optional)
 % Usage: \mobile{<mobile number>}
 \newcommand*{\mobile}[1]{\def\@mobile{#1}}
