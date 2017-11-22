@@ -45,6 +45,16 @@
 
 % If you would like to change the social information separator from a pipe (|) to something else
 \renewcommand{\acvHeaderSocialSep}{\quad\textbar\quad}
+\usepackage{bibentry}
+% \def\FormatName#1{%
+%   \def\myname{Phillip}%
+%   \edef\name{#1}%
+%   \ifx\name\myname
+%     \textbf{#1}%
+%   \else
+%     #1%
+%   \fi
+% }
 
 
 %-------------------------------------------------------------------------------
@@ -72,9 +82,11 @@
 
 \quote{``Be the change that you want to see in the world."}
 
-
 %-------------------------------------------------------------------------------
 \begin{document}
+\nobibliography{/Users/phwall/Local-GitHub/Awesome-CV/examples/cv/test}
+\bibliographystyle{unsrt}
+
 
 % Print the header with above personal informations
 % Give optional argument to change alignment(C: center, L: left, R: right)
@@ -84,7 +96,7 @@
 % Leave any of these blank if they are not needed
 \makecvfooter
   {\today}
-  {Claud D. Park~~~·~~~Curriculum Vitae}
+  {Phillip D. H. Wall~~~·~~~Curriculum Vitae}
   {\thepage}
 
 
@@ -93,13 +105,14 @@
 %	Each section is imported separately, open each file in turn to modify content
 %-------------------------------------------------------------------------------
 \input{cv/education.tex}
-\input{cv/skills.tex}
-\input{cv/experience.tex}
-\input{cv/extracurricular.tex}
+% \input{cv/skills.tex}
+% \input{cv/experience.tex}
+\input{cv/publications.tex}
+% \input{cv/extracurricular.tex}
 \input{cv/honors.tex}
-\input{cv/presentation.tex}
-\input{cv/writing.tex}
-\input{cv/committees.tex}
+% \input{cv/presentation.tex}
+% \input{cv/writing.tex}
+% \input{cv/committees.tex}
 
 
 %-------------------------------------------------------------------------------
