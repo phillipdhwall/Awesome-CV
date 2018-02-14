@@ -1,9 +1,108 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
 
-\bibitem{test}
+\bibitem{pub_1}
 \textbf{Phillip DH} \textbf{Wall}, Robert~L Carver, and Jonas~D Fontenot.
 \newblock An improved distance-to-dose correlation for predicting bladder and
   rectum dose-volumes in knowledge-based {VMAT} planning for prostate cancer.
-\newblock {\em Physics in Medicine and Biology}, 2017.
+\newblock {\em Physics in Medicine & Biology}, 63(1):015035, 2018.
+
+\bibitem{abs_ann}
+\textbf{Phillip DH} \textbf{Wall}, Robert~L Carver, and Jonas~D Fontenot.
+\newblock Improved knowledge-based bladder and rectum dose-volume predictions
+  using a database of {Pareto} optimal plans in {VMAT} planning for prostate
+  cancer.
+\newblock AAPM Annual Meeting, 2017.
+
+\bibitem{abs_spr}
+\textbf{Phillip DH} \textbf{Wall}, Robert~L Carver, and Jonas~D Fontenot.
+\newblock An improved distance-to-dose correlation for predicting bladder and
+  rectum dose-volumes in knowledge-based {VMAT} planning for prostate cancer.
+\newblock AAPM Spring Clinical Meeting, 2017.
+
+\bibitem{jav_model}
+\textbf{Phillip DH} \textbf{Wall}.
+\newblock {\em {Javelin Dynamics Model}}.
+\newblock {Open Souce Physics}, 2012.
+\newblock Available at:
+  \url{http://www.compadre.org/osp/items/detail.cfm?ID=12110}.
+
+\bibitem{aapmnl}
+\textbf{Phillip DH} \textbf{Wall}.
+\newblock {AAPM 2017: A First-Time Attendee’s Perspective}.
+\newblock {\em {AAPM Newsletter}}, 42(5), Sept/Oct 2017.
+
+\bibitem{pres_ann}
+\textit{Improved Knowledge-Based Bladder and Rectum Dose-Volume Predictions
+  Using a Database of Pareto Optimal Plans in VMAT Planning for Prostate
+  Cancer}.
+\newblock Oral Presentation, AAPM Annual Meeting; Denver, CO, Aug. 3, 2017.
+
+\bibitem{pres_spr}
+\textit{An Improved Distance-To-Dose Correlation for Predicting Bladder and
+  Rectum Dose-Volumes in Knowledge-Based {VMAT} Planning for Prostate Cancer}.
+\newblock Young Investigator Symposium, AAPM Spring Clinical Meeting; New
+  Orleans, LA, Mar. 18, 2017.
+
+\bibitem{pres_sem2}
+\textit{Experimental Comparison of Grating- and Propagation-based Hard X-ray
+  Phase Tomography of Soft Tissue by Lang et al.}
+\newblock MEDP 7995 Seminar, Louisiana State University; Baton Rouge, LA, Sep.
+  18, 2015.
+
+\bibitem{pres_sem1}
+\textit{Three-dimensional Liver Motion Tracking Using Real-Time Two-dimensional
+  MRI by Brix et al.}
+\newblock MEDP 7995 Seminar, Louisiana State University; Baton Rouge, LA, Nov.
+  14, 2014.
+
+\bibitem{pres_dsem}
+\textit{Dual Energy X-ray Imaging with Digitome®}.
+\newblock Physics Department Seminar, Davidson College; Davidson, NC, Apr. 25,
+  2014.
+
+\bibitem{pres_top3}
+\textit{Path Connectedness of Topological Spaces}.
+\newblock Lecture for MAT360: Topology, Davidson College; Davidson, NC, Apr. 3,
+  2014.
+
+\bibitem{pres_top2}
+\textit{Continuity for Functions Between Topological Spaces}.
+\newblock Lecture for MAT360: Topology, Davidson College; Davidson, NC, Feb.
+  27, 2014.
+
+\bibitem{pres_top1}
+\textit{Interior and Closure of Sets and Limit Points}.
+\newblock Lecture for MAT360: Topology, Davidson College; Davidson, NC, Jan.
+  30, 2014.
+
+\bibitem{pres_uab1}
+\textit{Investigating Point Defects in Iron-Doped Gallium Nitride}.
+\newblock REU Symposium, University of Alabama at Birmingham; Birmingham, AL,
+  Jul. 25, 2012.
+
+\bibitem{pos_dav4}
+\textit{Volumetric X-ray Imaging: Exploring the Potential of Digitome®}.
+\newblock Fall Joint Meeting of SACS-AAPT, NCS-AAPT and SPS Zone 5, Furman
+  University; Greenville, SC, Oct. 26, 2013.
+
+\bibitem{pos_dav3}
+\textit{Volumetric X-ray Imaging: Exploring the Potential of Digitome®}.
+\newblock Summer Research Symposium, Davidson College; Davidson, NC, Sep. 3,
+  2013.
+
+\bibitem{pos_dav2}
+\textit{Digitome®: Testing Its Measuring Capability and X-ray Absorption}.
+\newblock Science and Math Student Research Symposium, Davidson College;
+  Davidson, NC, May 8, 2013.
+
+\bibitem{pos_uab1}
+\textit{Investigating Point Defects in Iron-Doped Gallium Nitride}.
+\newblock UAB Summer Research Expo, University of Alabama at Birmingham;
+  Birmingham, AL, Jul. 26, 2012.
+
+\bibitem{pos_dav1}
+\textit{Javelin Throwing: The Search for Optimal Distance}.
+\newblock Science and Math Student Research Symposium, Davidson College;
+  Davidson, NC, May 9, 2012.
 
 \end{thebibliography}

@@ -19,6 +19,8 @@
 %-------------------------------------------------------------------------------
 % A4 paper size by default, use 'letterpaper' for US letter
 \documentclass[11pt, a4paper]{awesome-cv}
+\usepackage{bibentry}
+
 
 % Configure page margins with geometry
 \geometry{left=1.4cm, top=.8cm, right=1.4cm, bottom=1.8cm, footskip=.5cm}
@@ -31,7 +33,7 @@
 %                 awesome-nephritis, awesome-concrete, awesome-darknight
 \colorlet{awesome}{awesome-red}
 % Uncomment if you would like to specify your own color
-% \definecolor{awesome}{HTML}{CA63A8}
+\definecolor{awesome}{RGB}{172, 26, 47}  % Davidson Red!
 
 % Colors for text
 % Uncomment if you would like to specify your own color
@@ -45,7 +47,7 @@
 
 % If you would like to change the social information separator from a pipe (|) to something else
 \renewcommand{\acvHeaderSocialSep}{\quad\textbar\quad}
-\usepackage{bibentry}
+
 % \def\FormatName#1{%
 %   \def\myname{Phillip}%
 %   \edef\name{#1}%
@@ -71,22 +73,22 @@
 \mobile{(205) 266-0232}
 \email{phillipdhwall@gmail.com}
 %\homepage{www.posquit0.com}
-\github{phillipdhwall}
 \linkedin{phillipdhwall}
+\github{phillipdhwall}
 % \gitlab{gitlab-id}
 % \stackoverflow{SO-id}{SO-name}
-\twitter{@phillipdhwall}
+% \twitter{@phillipdhwall}
 \skype{phillip.dh.wall}
 % \reddit{reddit-id}
 % \extrainfo{extra informations}
 
-\quote{``Be the change that you want to see in the world."}
+%\quote{``The will to persevere is often the difference between failure and success." - David Sarnoff}
 
 %-------------------------------------------------------------------------------
 \begin{document}
-\nobibliography{/Users/phwall/Local-GitHub/Awesome-CV/examples/cv/test}
-\bibliographystyle{unsrt}
 
+\bibliographystyle{unsrt}
+\mbox{\nobibliography{/Users/phwall/Local-GitHub/Awesome-CV/examples/cv/test}}
 
 % Print the header with above personal informations
 % Give optional argument to change alignment(C: center, L: left, R: right)
@@ -105,12 +107,13 @@
 %	Each section is imported separately, open each file in turn to modify content
 %-------------------------------------------------------------------------------
 \input{cv/education.tex}
-% \input{cv/skills.tex}
-% \input{cv/experience.tex}
+\input{cv/skills.tex}
+\input{cv/experience.tex}
+\input{cv/research.tex}
 \input{cv/publications.tex}
-% \input{cv/extracurricular.tex}
+\input{cv/presentations.tex}
 \input{cv/honors.tex}
-% \input{cv/presentation.tex}
+\input{cv/extracurricular.tex}
 % \input{cv/writing.tex}
 % \input{cv/committees.tex}
 
